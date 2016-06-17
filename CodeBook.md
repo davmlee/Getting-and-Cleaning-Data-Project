@@ -12,10 +12,11 @@ The vairables are as follows:
                                                                                   Sitting
                                                                                   Standing
                                                                                   Laying
-    [3] "timebodyaccelerometermeanX"                    Numeric                     
-    [4] "timebodyaccelerometermeanY"                    Numeric
-    [5] "timebodyaccelerometermeanZ"                    Numeric 
-    [6] "timeGravityaccelerometermeanX"                 Numeric 
+                                                                                  
+    [3] "timebodyaccelerometermeanX"                    Numeric                 Value of variables                     
+    [4] "timebodyaccelerometermeanY"                    Numeric                 3 - 88 is the mean
+    [5] "timebodyaccelerometermeanZ"                    Numeric                 of the variable from 
+    [6] "timeGravityaccelerometermeanX"                 Numeric                 the original data set
     [7] "timeGravityaccelerometermeanY"                 Numeric 
     [8] "timeGravityaccelerometermeanZ"                 Numeric 
     [9] "timebodyaccelerometerJerkmeanX"                Numeric 
