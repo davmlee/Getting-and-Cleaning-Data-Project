@@ -5,7 +5,8 @@ The vairables are as follows:
 
 
         VARIABLE NAME                                 VARIABLE TYPE               VALUE                                  
-    [1] "Subject"                                       Integer                   1 - 30   
+    [1] "Subject"                                       Integer                   1 - 30
+    
     [2] "Activity"                                      Factor                    Walking
                                                                                   Walking_Upstairs
                                                                                   Waling_Downstairs
