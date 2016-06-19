@@ -1,5 +1,13 @@
 ## CodeBook for Getting and Cleaning Data Project
 
+The original data sets are:
+        1. X_test.txt, y_test.txt, subject_test.txt
+        2. X_train, y_train, subject_train
+        3. features.txt, activity_labels.txt
+The data sets were combined by test and train and then combined together to create a new full data set.
+The full data set was then used to create a tidy data set consisting of the mean of each variable for the
+subject and activity.
+
 The tidy data set (tidy_dataset.txt) consists of 180 observations of 88 variables.
 The vairables are as follows:
 
