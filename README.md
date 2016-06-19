@@ -8,6 +8,12 @@ The run_analysis.R script does the following:
   5.  From the data set in step 4, creates a second independent tidy data set with the average 
 	    of each variable for each activity and each subject.
 
+The files needed are located at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Download the files and unzip them.  Set your working directory to where the file has been dowloaded
+and unzipped, then run the script.
+
 
 
 
